@@ -10,5 +10,6 @@ public class Gextracted {
             }
             System.out.println();
         }
+        System.out.println(45);
     }
 }
